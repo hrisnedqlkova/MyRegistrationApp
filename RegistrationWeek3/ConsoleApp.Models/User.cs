@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RegistrationWeek3
+namespace ConsoleApp.Models
 {
     public class User
     {
